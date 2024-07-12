@@ -1,5 +1,6 @@
 # project configuration
 .exercicio_zero/project
+.venv
 
 # patch files
 *.orig

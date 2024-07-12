@@ -1,4 +1,4 @@
-"""Implementação dos testes para a simulação de DFA"""
+"""Implementação dos testes para a simulação de DFA."""
 
 from unittest.mock import patch, mock_open
 from behave import given, when, then  # pylint: disable=no-name-in-module
